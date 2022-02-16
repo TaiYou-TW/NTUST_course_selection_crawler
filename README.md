@@ -1,3 +1,13 @@
 # NTUST_course_selection_crawler
 
-telegram bot for NTUST course selection
+## Install
+
+```
+pip3 install telebot
+pip3 install python-telegram-bot
+```
+## Run
+
+```
+python3 main.py
+```
